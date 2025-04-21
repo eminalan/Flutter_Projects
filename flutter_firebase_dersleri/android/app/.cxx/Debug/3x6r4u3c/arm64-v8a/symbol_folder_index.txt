@@ -1,0 +1,1 @@
+D:\Flutter Projelerim\flutter_firebase_dersleri\build\app\intermediates\cxx\Debug\3x6r4u3c\obj\arm64-v8a

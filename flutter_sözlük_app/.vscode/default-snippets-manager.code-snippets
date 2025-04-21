@@ -1,0 +1,19 @@
+{
+	"toJson_FromMap": {
+		"prefix": "toJson_FromMap",
+		"description": "toJson_FromMap",
+		"scope": "dart",
+		"body": [
+			"  factory Kelime.fromMap(Map<String, dynamic> map) {\r",
+			"    return Kelime(id: map['id'] ?? 0, tr: map['tr'], en: map['en']);\r",
+			"  }\r",
+			"  Map<String, dynamic> toMap() {\r",
+			"    final Map<String, dynamic> data = <String, dynamic>{};\r",
+			"    data['id'] = id;\r",
+			"    data['tr'] = tr;\r",
+			"    data['en'] = en;\r",
+			"    return data;\r",
+			"  }"
+		]
+	}
+}

@@ -1,0 +1,2 @@
+D:/Flutter Projelerim/flutter_firebase_dersleri/android/app/.cxx/Debug/3x6r4u3c/x86_64/CMakeFiles/edit_cache.dir
+D:/Flutter Projelerim/flutter_firebase_dersleri/android/app/.cxx/Debug/3x6r4u3c/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+{
+	"my_snippets": {
+		"prefix": "my_snippets",
+		"description": "my_snippets",
+		"scope": "dart",
+		"body": [
+			"import 'package:flutter/material.dart';\r",
+			"\r",
+			"class HomePages extends StatelessWidget {\r",
+			"  const HomePages({super.key});\r",
+			"\r",
+			"  @override\r",
+			"  Widget build(BuildContext context) {\r",
+			"    return Scaffold(\r",
+			"      appBar: AppBar(title: const Text(\"\")),\r",
+			"      body: _buildBody(context),\r",
+			"      floatingActionButton: FloatingActionButton(\r",
+			"        onPressed: () {},\r",
+			"        tooltip: 'Increment',\r",
+			"        child: const Icon(Icons.add),\r",
+			"      ),\r",
+			"    );\r",
+			"  }\r",
+			"\r",
+			"  Widget _buildBody(BuildContext context) {\r",
+			"    return Column();\r",
+			"  }\r",
+			"}\r",
+			""
+		]
+	}
+}

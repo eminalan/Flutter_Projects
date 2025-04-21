@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118162841770",
+    "project_id": "lovers-140e8",
+    "storage_bucket": "lovers-140e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118162841770:android:6b99126422a571efc0f0d3",
+        "android_client_info": {
+          "package_name": "eminalan.com.example.flutter_lovers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRXRV1jvLBcTUjmTHQUkGd3xPeKC1ZlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
