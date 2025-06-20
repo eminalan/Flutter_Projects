@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248540491269",
+    "project_id": "fir-ders-ae962",
+    "storage_bucket": "fir-ders-ae962.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248540491269:android:39021cb18f2d66073bb66c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUOfjVTt12OsGZUJ4qjC_sB2e2XfkWSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
